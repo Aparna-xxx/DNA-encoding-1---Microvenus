@@ -1,0 +1,14 @@
+-This text file explains how the Microvenus experiment is implemented using phase-change model
+-This code demonstrates how the first experiment of DNA data storage works
+-This experiment primarily had artistic purposes
+-Here, artificial information is incorporated in E.coli Bacteria
+-The ancient Germanic rune for life and the female earth, bit-mapped to a binary representation to be incorporated into the bacteria.
+-This resulted in a 5×7 or 7×5 figure, totaling 35 bits as shown in the image in the readme file
+-This binary grid is mapped to nucleotides with the help of phase-change model
+-Phase change model works in the following manner
+-Nucleotide indicates how may times a bit (0 or 1)is repeated before bit change occurs:
+    X → C
+    XX → T
+    XXX → A
+    XXXX → G
+-Hence the bit sequence 10101 01110 00100 00100 00100 00100 00100 is mapped to CCCCCCAACGCGCGCGCT
